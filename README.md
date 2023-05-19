@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerF8
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning How to use YOLOv5, Go (programming language), ...
+- 🌱 I’m currently learning How to use YOLO, Go (programming language), ...
 - 📫 How to reach me https://www.linkedin.com/in/fernandofucili/
 
 <!---
